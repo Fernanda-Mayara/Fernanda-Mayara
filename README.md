@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, eu sou a Fernanda! 
 
-<!--
-**Fernanda-Mayara/Fernanda-Mayara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados e entusiasta de tecnologia.
 
-Here are some ideas to get you started:
+Aqui compartilho minha jornada de aprendizado, projetos, estudos e experiências envolvendo Business Intelligence, inteligência artificial e desenvolvimento de soluções orientadas por dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formanda em Análise e Desenvolvimento de Sistemas pelo Senac-SP
+
+📚 MBA em Data Science, Inteligência Artificial e Analytics pela USP/Esalq
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Fernanda-Mayara)
+
